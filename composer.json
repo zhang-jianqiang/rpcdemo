@@ -1,0 +1,15 @@
+{
+    "name": "gift/rpc",
+    "authors": [
+        {
+            "name": "gift",
+            "email": "853183966@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "rpc\\": ""
+        }
+    }
+}
